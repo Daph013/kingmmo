@@ -23,11 +23,8 @@ h1{
     width: 350px;
     height:65px ;
     border: none;
-    color: rgb(241, 239, 236);
-    font-size: 30px;
-    border-radius: 10px;
-    border-color: black;
-
+    color: rgb(214, 166, 110);
+    font-size: 25px;
     
 }
 .btn{
@@ -35,7 +32,6 @@ h1{
 }
 .btn-primary.btn-primary:hover {
     background-color: rgb(54, 34, 6);
-    
     
 }
 .lead{
